@@ -8,5 +8,9 @@ namespace PIS
 {
     class Class1
     {
+        public void novi()
+        {
+            
+        }
     }
 }
